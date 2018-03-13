@@ -2,10 +2,10 @@
 
 ## Todo
 
-- setup
-  - img
-  - fonts
-- index
+- ~~setup~~
+  - ~~img~~
+  - ~~fonts~~
+- ~~index~~
 - signup
 - solutions
 - styles
