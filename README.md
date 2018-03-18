@@ -6,6 +6,7 @@
   - ~~img~~
   - ~~fonts~~
 - ~~index~~
-- signup
-- solutions
-- styles
+- ~~signup~~
+- ~~solutions~~
+- ~~styles~~
+- js
